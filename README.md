@@ -13,3 +13,4 @@ Currently supporting 6 operations:
 
 * Bitwise Operations use 1s compliment for inverting B
 * Arithmetic Operations use 2s compliment for negating B
+* This design utilizes the Carry-Select Adder to forgo the propagation delays that occur in the Ripple-Carry Adder
